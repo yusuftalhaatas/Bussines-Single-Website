@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Bussines-Single-Website
 
-## Getting Started
+This project is a modern **single page website** designed for showcasing business services and products. Built using **Next.js**, it provides a sleek, responsive, and highly interactive user experience. 
 
-First, run the development server:
+You can view the live version of the website here: [Live Demo](https://single-page-3m9s7pwer-yusuftalhas-projects.vercel.app/)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Responsive Design**: Optimized for all devices (desktop, tablet, and mobile).
+- **Single Page Navigation**: Scroll-triggered smooth navigation across different sections.
+- **Product Showcase**: Displays products with modern color palettes and interactive elements.
+- **Contact Section**: Easily accessible contact information for users.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Next.js**: Fast and scalable React framework.
+- **TypeScript**: For type-safe development.
+- **CSS**: Custom styles for modern UI design.
+- **Swiper.js**: For product slider functionality.
+- **Vercel**: For seamless deployment.
 
-## Learn More
+## Installation
 
-To learn more about Next.js, take a look at the following resources:
+To run this project locally, follow these steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yusuftalhaatas/Bussines-Single-Website.git
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Navigate to the project directory:
+    ```bash
+    cd Bussines-Single-Website
+    ```
 
-## Deploy on Vercel
+3. Install the dependencies:
+    ```bash
+    npm install
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Start the development server:
+    ```bash
+    npm run dev
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+5. Open [http://localhost:3000](http://localhost:3000) to view the website locally.
+
+## Live Demo
+
+You can view the live version of the website at the following link:
+
+[Live Demo](https://single-page-3m9s7pwer-yusuftalhas-projects.vercel.app/)
+
+## License
+
+This project is licensed under the MIT License.
