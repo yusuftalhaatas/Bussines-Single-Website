@@ -13,7 +13,7 @@ export default function Header() {
           height={50} // Yükseklik değeri
           className="logo-icon"
         />
-        <span className="brand-name">Apticos</span>
+        <span className="brand-name">Appticos</span>
       </div>
       <nav>
         <ul>
